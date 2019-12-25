@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageExample</string>
+    <string name="english">Aнглійська</string>
+    <string name="ukrainian">Українська</string>
+    <string name="open_web_view">Відкрити web view</string>
+</resources>
